@@ -1,0 +1,29 @@
+
+a.nav:hover{
+    color: red;
+}
+nav nav.L{
+    color: red;
+}
+.navAB{
+    background-color: red;
+    background-image: url(https://img.freepik.com/free-photo/abstract-luxury-plain-blur-grey-black-gradient-used-as-background-studio-wall-display-your-products_1258-63644.jpg);
+}
+.Q{
+    background-color: lightgray;
+    background-image: url(https://media.istockphoto.com/photos/office-workplace-background-picture-id1189964492);
+  height: 100%;
+  width:100%
+    /* padding: 50%; */
+
+}
+.card{
+    text-align: center;
+    justify-content: end;
+}
+card:hover{
+    color: blue;
+}
+.Img{
+    
+}
